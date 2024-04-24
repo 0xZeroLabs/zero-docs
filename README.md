@@ -39,5 +39,5 @@ Finding a solution requires navigating a delicate balance. DeFi needs a robust K
 
 
 
-### Protocol Governance ($0xZERO)
+### Protocol Governance ($ZERO)
 
