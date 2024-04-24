@@ -2,12 +2,7 @@
 description: >-
   ZERO is an omnichain identity, and solvency aggregation and attestation
   protocol.
-cover: .gitbook/assets/zero-banner.png
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: true
   description:
@@ -22,6 +17,8 @@ layout:
 
 # ZERO Overview
 
+<figure><img src=".gitbook/assets/zero-banner-2.png" alt=""><figcaption></figcaption></figure>
+
 ## The Paradox of DeFi Identity
 
 In our data-driven world, the web3 industry presents a fascinating paradox. It thrives by empowering users with control over their data, fostering a permissionless ecosystem that disrupts traditional gatekeepers. However, this very autonomy can create challenges. Regulations and law enforcement agencies, with the legitimate goal of preventing theft and fraud, often rely on user data collection, a practice at odds with web3's core principles. Data brokers exemplify this tension, exploiting user data for profit while web3 strives to return ownership to individuals.
@@ -32,13 +29,17 @@ Additionally, it should consider mechanisms to assess the financial health of pa
 
 ## The ZERO Solution
 
-### On-chain Storage
+### zk-Powered Identities
 
 
 
-### Encrypted Identities
+### Omni-chain Passports
 
 
 
 ### Aggregated Verifications
+
+
+
+### Protocol Governance ($0xZERO)
 
