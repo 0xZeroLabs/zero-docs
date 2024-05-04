@@ -49,4 +49,4 @@ We leverage aggregated data across multiple supported blockchains and wallets to
 
 #### Your Omni-Chain Voice in Our Protocol
 
-Introducing **$omZERO, the Powerhouse of Our Multi-Chain Governance**. This revolutionary **Omni-Governance Token** empowers you to **shape the future, chain-agnostically**. With $omZERO, you can seamlessly participate in crucial on-chain decisions across every supported blockchain within our protocol.
+We'll be introducing **$omZERO, the Powerhouse of Our Multi-Chain Governance**. This revolutionary **Omni-Governance Token** empowers you to **shape the future, chain-agnostically**. With $omZERO, you can seamlessly participate in crucial on-chain decisions across every supported blockchain within our protocol.
