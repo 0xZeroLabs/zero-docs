@@ -17,7 +17,7 @@ layout:
 
 # ZERO Overview
 
-<figure><img src=".gitbook/assets/zero-social-bg.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/zero-social-bg (1).png" alt=""><figcaption></figcaption></figure>
 
 ## The Paradox of DeFi Identity
 
