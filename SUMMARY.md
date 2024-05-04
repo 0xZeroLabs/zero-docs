@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Zero Overview](README.md)
+* [ZERO Overview](README.md)
