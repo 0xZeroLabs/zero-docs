@@ -11,7 +11,7 @@
 
 ## Users
 
-* [How to Get omPassports](users/how-to-get-ompassports.md)
+* [omPassports](users/how-to-get-ompassports.md)
 
 ## Developers
 
