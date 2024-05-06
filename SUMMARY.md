@@ -23,4 +23,4 @@
 
 ## Community
 
-
+* [Socials](community/socials.md)
