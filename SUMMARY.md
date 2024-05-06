@@ -9,6 +9,6 @@
   * [Aggregated Verifications](the-zero-solution/aggregated-verifications.md)
   * [Protocol Governance ($omZERO)](the-zero-solution/protocol-governance-usdomzero.md)
 
-## Group 1
+## SDK
 
-* [ZERO SDK](group-1/zero-sdk.md)
+* [ZERO SDK](sdk/zero-sdk.md)
