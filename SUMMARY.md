@@ -6,5 +6,3 @@
   * [Omnichain Passports](the-zero-solution/omnichain-passports.md)
   * [Aggregated Verifications](the-zero-solution/aggregated-verifications.md)
   * [Protocol Governance ($omZERO)](the-zero-solution/protocol-governance-usdomzero.md)
-
-## Group 1
