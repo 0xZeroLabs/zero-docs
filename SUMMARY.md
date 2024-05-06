@@ -11,6 +11,7 @@
 
 ## Users
 
+* [How to Get omPassports](users/how-to-get-ompassports.md)
 
 ## Developers
 
@@ -18,6 +19,8 @@
 
 ## Partners
 
+* [Ecosystem](partners/ecosystem.md)
 
 ## Community
+
 
