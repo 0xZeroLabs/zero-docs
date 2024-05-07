@@ -24,3 +24,6 @@
 ## Community
 
 * [Socials](community/socials.md)
+
+## Tokenomics
+
