@@ -15,10 +15,15 @@
 ## Users
 
 * [omPassports](users/how-to-get-ompassports.md)
+* [Appeal Request](users/appeal-request.md)
 
 ## Developers
 
-* [ZERO SDK](developers/zero-sdk.md)
+* [ZERO SDK](developers/zero-sdk/README.md)
+  * [Identity](developers/zero-sdk/identity.md)
+  * [Solvency](developers/zero-sdk/solvency.md)
+  * [Aggregator](developers/zero-sdk/aggregator.md)
+* [Building](developers/building.md)
 
 ## Partners
 
