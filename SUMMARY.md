@@ -37,4 +37,4 @@
   * [LinkedIn](https://www.linkedin.com/company/0xzero)
   * [Telegram](https://t.me/+bQxO0IDoXvhhMGI0)
   * [Linktree](https://linktr.ee/0xzero)
-* [Press Kit](community/press-kit.md)
+* [Brand Assets](community/brand-assets.md)

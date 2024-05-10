@@ -1,6 +1,5 @@
 ---
 description: Protect Your Privacy with Secure Verification
-coverY: 0
 ---
 
 # zk-Powered Identities
