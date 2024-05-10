@@ -14,7 +14,7 @@
 
 ## Users
 
-* [omPassports](users/how-to-get-ompassports.md)
+* [Getting Started](users/how-to-get-ompassports.md)
 * [Appeal Request](users/appeal-request.md)
 
 ## Developers
@@ -23,7 +23,7 @@
   * [Identity](developers/zero-sdk/identity.md)
   * [Solvency](developers/zero-sdk/solvency.md)
   * [Aggregator](developers/zero-sdk/aggregator.md)
-* [Building](developers/building.md)
+* [Implementing ZERO](developers/implementing-zero.md)
 
 ## Partners
 
@@ -31,4 +31,10 @@
 
 ## Community
 
-* [Socials](community/socials.md)
+* [Socials](community/socials/README.md)
+  * [Guild](https://guild.xyz/zero)
+  * [X (Twitter)](https://x.com/0xZeroOrg)
+  * [LinkedIn](https://www.linkedin.com/company/0xzero)
+  * [Telegram](https://t.me/+bQxO0IDoXvhhMGI0)
+  * [Linktree](https://linktr.ee/0xzero)
+* [Press Kit](community/press-kit.md)
