@@ -22,6 +22,6 @@ Blacklisting is a last resort reserved for highly suspicious activity. If your o
 
 Blacklisted omIDs are only revealed when a user requests their score or when a report triggers a score check. This ensures privacy while maintaining security.
 
-{% content-ref url="../users/appeal-request.md" %}
-[appeal-request.md](../users/appeal-request.md)
+{% content-ref url="../../../users/appeal-request.md" %}
+[appeal-request.md](../../../users/appeal-request.md)
 {% endcontent-ref %}

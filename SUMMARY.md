@@ -4,7 +4,8 @@
 
 * [General Overview](README.md)
 * [ZERO Solution](the-zero-solution/README.md)
-  * [zk-Powered Identities](the-zero-solution/zk-powered-identities.md)
+  * [zk-Powered Identities](overview/the-zero-solution/zk-powered-identities/README.md)
+    * [zkHash](overview/the-zero-solution/zk-powered-identities/zkhash.md)
   * [Omnichain Passports](the-zero-solution/omnichain-passports.md)
   * [Aggregated Verifications](the-zero-solution/aggregated-verifications.md)
 
@@ -27,7 +28,8 @@
 
 ## Partners
 
-* [Ecosystem](partners/ecosystem.md)
+* [Ecosystem](partners/ecosystem/README.md)
+  * [Ambassador](partners/ecosystem/ambassador.md)
 
 ## Community
 
@@ -37,4 +39,4 @@
   * [LinkedIn](https://www.linkedin.com/company/0xzero)
   * [Telegram](https://t.me/+bQxO0IDoXvhhMGI0)
   * [Linktree](https://linktr.ee/0xzero)
-* [Brand Assets](community/brand-assets.md)
+* [Brand Assets](https://drive.google.com/drive/folders/1FlsVpvlTCQ0HYbS\_7BLHc\_U6yHG00hMS)
