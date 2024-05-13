@@ -38,7 +38,5 @@
   * [Guild](https://guild.xyz/zero)
   * [Mail](mailto:team@0xzero.org)
   * [X (Twitter)](https://x.com/0xZeroOrg)
-  * [LinkedIn](https://www.linkedin.com/company/0xzero)
-  * [Telegram](https://t.me/+bQxO0IDoXvhhMGI0)
   * [Linktree](https://linktr.ee/0xzero)
 * [Brand Assets](https://drive.google.com/drive/folders/1FlsVpvlTCQ0HYbS\_7BLHc\_U6yHG00hMS)
