@@ -34,7 +34,9 @@
 ## Community
 
 * [Socials](community/socials/README.md)
+  * [Discord](https://discord.gg/bqscx4Mg5j)
   * [Guild](https://guild.xyz/zero)
+  * [Mail](mailto:team@0xzero.org)
   * [X (Twitter)](https://x.com/0xZeroOrg)
   * [LinkedIn](https://www.linkedin.com/company/0xzero)
   * [Telegram](https://t.me/+bQxO0IDoXvhhMGI0)
