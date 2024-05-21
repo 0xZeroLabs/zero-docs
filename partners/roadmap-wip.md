@@ -10,9 +10,9 @@ description: Where is ZERO currently headed?
 * [x] Testing Feasibility.
 * [x] Competitive Solution Research.
 * [x] Build omPassport SBT.
-* [ ] Setup Omnichain Architecture.
+* [ ] Establish Omnichain Architecture.
 * [ ] Integrate omID with Zero-Knowledge.
-* [ ] Start Private Alpha.
+* [ ] Initiate Private Alpha.
 
 ### Q3, 2024
 
@@ -25,7 +25,7 @@ description: Where is ZERO currently headed?
 ### Q4, 2024
 
 * [ ] Analyze User Data for Refinement.
-* [ ] Outreach and Pre-Launch Marketing.
+* [ ] Outreach & Pre-Launch Marketing.
 * [ ] Improve Solvency Aggregation Framework.
 * [ ] Implement Off-chain Solvency Aggregation.
 * [ ] Build out omBalance Framework.
@@ -37,4 +37,4 @@ description: Where is ZERO currently headed?
 * [ ] Round-off omID Integration.
 * [ ] Mainnet Deployment.
 * [ ] Governance Token Announcement.
-* [ ] Begin Ecosystem Growth.
+* [ ] Cultivate Ecosystem Growth.
