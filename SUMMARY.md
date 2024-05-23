@@ -8,6 +8,8 @@
     * [zkHash](overview/the-zero-solution/zk-powered-identities/zkhash.md)
   * [Omnichain Passports](the-zero-solution/omnichain-passports.md)
   * [Aggregated Verifications](the-zero-solution/aggregated-verifications.md)
+  * [Smart Balance Singularity](overview/the-zero-solution/smart-balance-singularity.md)
+  * [One Secure Wallet Solution](overview/the-zero-solution/one-secure-wallet-solution.md)
 
 ## Tokenomics
 
