@@ -20,20 +20,28 @@ description: Where is ZERO currently headed?
 * [ ] Develop Attestation Protocol.
 * [ ] Solvency Aggregation Thesis.
 * [ ] Build Aggregation Framework.
-* [ ] Complete Aggregator SDK
-* [ ] Launch Public Beta.
+* [ ] Complete Aggregator SDK.
+* [ ] Launch Public Beta for Data Acquisition.
 
 ### Q4, 2024
 
-* [ ] Analyze User Data for Refinement.
+* [ ] Analyze Onchain Data for Refinement.
 * [ ] Pre-Launch Marketing Campaigns.
-* [ ] Improve Solvency Aggregation Framework.
 * [ ] Build out omBalance Framework.
+* [ ] Deploy zk-Node for Credential Issuers.
+* [ ] Onboard Institutions to Provide Insights on Solvency.
+* [ ] Improve Solvency Aggregation Framework.
+
+### Q1, 2025
+
 * [ ] Implement Off-chain Solvency Aggregation.
+* [ ] Clean up Identity Graph.
+* [ ] Secure Credential Issuing using SNARKs.
+* [ ] Implement omKey for Secure Identity & Wallet Protection.
 * [ ] Build Omni-Governance Framework.
 * [ ] Comprehensive Internal Testing & Security Audits.
 
-### Q1, 2025
+### Q2, 2025
 
 * [ ] Finalize omID Integration.
 * [ ] Mainnet Launch.
