@@ -6,9 +6,9 @@
 * [ZERO Solution](the-zero-solution/README.md)
   * [zk-Powered Identities](overview/the-zero-solution/zk-powered-identities/README.md)
     * [zkHash](overview/the-zero-solution/zk-powered-identities/zkhash.md)
+    * [Aggregated Verifications](overview/the-zero-solution/zk-powered-identities/aggregated-verifications.md)
   * [Omnichain Passports](the-zero-solution/omnichain-passports.md)
-  * [Aggregated Verifications](the-zero-solution/aggregated-verifications.md)
-  * [Smart Balance Singularity](overview/the-zero-solution/smart-balance-singularity.md)
+  * [Abstracted Balance](overview/the-zero-solution/abstracted-balance.md)
   * [One Secure Wallet Solution](overview/the-zero-solution/one-secure-wallet-solution.md)
 
 ## Tokenomics
@@ -31,6 +31,7 @@
 ## Partners
 
 * [Ecosystem](partners/ecosystem/README.md)
+  * [Partners](partners/ecosystem/partners.md)
   * [Ambassador](partners/ecosystem/ambassador.md)
 * [Roadmap \[WIP\]](partners/roadmap-wip.md)
 
