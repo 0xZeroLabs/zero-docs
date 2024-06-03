@@ -11,7 +11,6 @@ description: Where is ZERO currently headed?
 * [x] Competitive Analysis.
 * [x] Build omPassport SBT.
 * [ ] Establish Omnichain Architecture.
-* [ ] Integrate omID with Zero-Knowledge.
 * [ ] Initiate Private Alpha.
 
 ### Q3, 2024
