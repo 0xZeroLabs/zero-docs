@@ -43,6 +43,6 @@ description: Where is ZERO currently headed?
 ### Q2, 2025
 
 * [ ] Finalize omID Integration.
-* [ ] Mainnet Launch.
+* [ ] Protocol Launch.
 * [ ] Governance Token Announcement.
 * [ ] Foster Ecosystem Growth.
