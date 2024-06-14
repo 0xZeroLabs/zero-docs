@@ -44,5 +44,5 @@ description: Where is ZERO currently headed?
 
 * [ ] Finalize omID Integration.
 * [ ] Protocol Launch.
-* [ ] Governance Token Announcement.
+* [ ] Appchain & Governance Announcement.
 * [ ] Foster Ecosystem Growth.

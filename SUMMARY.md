@@ -13,7 +13,7 @@
 
 ## Tokenomics
 
-* [Governance \[$omZERO\]](tokenomics/protocol-governance-usdomzero.md)
+* [Governance \[$OMZ\]](tokenomics/protocol-governance-usdomzero.md)
 
 ## Users
 
