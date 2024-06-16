@@ -13,9 +13,9 @@ We'll be introducing $omZERO ($OMZ), the **Powerhouse of Our Omnichain Governanc
 * **Ecosystem Development:** 10% (50% release after TGE, 50% locked for 6 months)
 * **Marketing & KOLs:** 15% (30% release after TGE, 70% 6 months cliff vesting, 6 months linear vesting)
 * **Treasury Reserve:** 10% (24 months linear vesting)
-* &#x20;**Rewards:** 25% (variable depending on the users)
 * **Airdrop:** 10% (40% linear vesting for 12 months)
 * **Liquidity:** 15% (Initial public sale for liquidity)
+* **Stakeholder Rewards:** 25% (variable depending on the users)
 
 **Cliff Vesting:** Vesting schedule that allows holders to become fully vested in a token till a specific date, rather than gradually over time.
 
