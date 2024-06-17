@@ -11,19 +11,20 @@ description: Where is ZERO currently headed?
 * [x] Competitive Analysis.
 * [x] Build omPassport SBT.
 * [ ] Establish Omnichain Architecture.
-* [ ] Initiate Private Alpha.
+* [ ] Launch Waitlist.
 
 ### Q3, 2024
 
 * [ ] Refine omPassport SBT.
+* [ ] Initiate Private Alpha.
 * [ ] Develop Attestation Protocol.
 * [ ] Solvency Aggregation Thesis.
 * [ ] Build Aggregation Framework.
 * [ ] Complete Aggregator SDK.
-* [ ] Launch Public Beta for Data Acquisition.
 
 ### Q4, 2024
 
+* [ ] Launch Public Beta for Data Acquisition.
 * [ ] Analyze Onchain Data for Refinement.
 * [ ] Pre-Launch Marketing Campaigns.
 * [ ] Build out omBalance Framework.
