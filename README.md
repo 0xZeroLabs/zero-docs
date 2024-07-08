@@ -15,11 +15,11 @@ layout:
     visible: true
 ---
 
-# ZERO Overview
+# General Overview
 
 <figure><img src=".gitbook/assets/zero-social-bg (1).png" alt=""><figcaption></figcaption></figure>
 
-## The Paradox of DeFi Identity
+## The Paradox of Web3 Identity
 
 Web3 thrives on a paradox. It empowers users with data ownership, disrupting traditional control by fostering a permissionless ecosystem. Yet, this very autonomy clashes with regulations and law enforcement's need for user data to combat theft and fraud. Data brokers exploit this tension, profiting from information web3 aims to return to users.
 

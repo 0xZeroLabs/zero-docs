@@ -1,3 +1,3 @@
-# Implementing ZERO
+# Sybil Aggregator
 
 Work in progress..

@@ -1,16 +1,5 @@
 # zkHash
 
-### **Function**
-
-zkHash, refers to an implementation of a privacy-preserving cryptographic hash function used to represent a user's essential identity information.
-
-### **Process**
-
-1.  **Input:**  The zkHash generation process takes a user's core identity data (potentially including real name, date of birth, or other identifiers) as input.
-
-
-2. **Hashing:** A cryptographic hashing function is applied to this data, resulting in a unique fixed-size string called the zkHash.
-
 ### **Privacy Preservation:**
 
 Crucially, the zkHash itself **does not reveal the original data**. It functions like a mathematical fingerprint, derived from the user's information but not directly revealing it. This enables verification of a user's identity without compromising their sensitive information.

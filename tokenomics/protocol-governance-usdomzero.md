@@ -36,5 +36,5 @@ We'll be introducing $omZERO ($OMZ), the **Powerhouse of Our Omnichain Governanc
 
 ### Payments and Governance:
 
-* All fees can be paid using the governance token and every supported token on the [Smart Balance](../overview/the-zero-solution/abstracted-balance.md) system.
+* All fees can be paid using the governance token and every supported token on the [Smart Balance](../overview/the-zero-solution/balance.md) system.
 * The protocol's governance system allows the community to influence pricing structures through proposals and voting.

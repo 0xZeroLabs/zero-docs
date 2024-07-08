@@ -4,12 +4,15 @@
 
 * [General Overview](README.md)
 * [ZERO Solution](the-zero-solution/README.md)
-  * [zk-Powered Identities](overview/the-zero-solution/zk-powered-identities/README.md)
-    * [zkHash](overview/the-zero-solution/zk-powered-identities/zkhash.md)
-    * [Aggregated Verifications](overview/the-zero-solution/zk-powered-identities/aggregated-verifications.md)
-  * [Omnichain Passports](the-zero-solution/omnichain-passports.md)
-  * [Abstracted Balance](overview/the-zero-solution/abstracted-balance.md)
-  * [One Secure Wallet Solution](overview/the-zero-solution/one-secure-wallet-solution.md)
+  * [Identity](overview/the-zero-solution/zk-powered-identities/README.md)
+    * [zkHash](overview/the-zero-solution/zk-powered-identities/zkhash/README.md)
+      * [zKYC](overview/the-zero-solution/zk-powered-identities/zkhash/zkyc.md)
+    * [Score Index](overview/the-zero-solution/zk-powered-identities/aggregated-verifications.md)
+    * [Status](overview/the-zero-solution/zk-powered-identities/status.md)
+  * [Passport](the-zero-solution/omnichain-passports.md)
+  * [Balance](overview/the-zero-solution/balance.md)
+  * [Smart Key](overview/the-zero-solution/smart-key.md)
+  * [Understanding ZERO Protocol Architecture](https://paragraph.xyz/@0xzero/understanding-zero-protocol)
 
 ## Tokenomics
 
@@ -23,9 +26,9 @@
 ## Developers
 
 * [ZERO SDK](developers/zero-sdk/README.md)
-  * [Identity](developers/zero-sdk/identity.md)
-  * [Solvency](developers/zero-sdk/solvency.md)
-  * [Aggregator](developers/zero-sdk/aggregator.md)
+  * [Attesstation](developers/zero-sdk/attesstation.md)
+  * [Issuers](developers/zero-sdk/issuers.md)
+  * [Sybil Aggregator](developers/zero-sdk/sybil-aggregator.md)
 * [Implementing ZERO](developers/implementing-zero.md)
 
 ## Partners
