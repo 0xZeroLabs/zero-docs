@@ -4,22 +4,19 @@
 
 * [x] Viction
 * [x] PhronAI
-* [ ] Telos
-* [ ] Plume
-* [ ] Op Stack
 * [ ] zkSync
 
 ### Data Availability
 
-* [ ] SEDA
-* [ ] Data Ownership Protocol
+* [ ] Irys
+* [ ] Kwil DB
 
-### Research
+### Protocols
 
-* [ ] Ponos Tech
+* [x] Passport Protoocol
+* [ ] Sindri
+* [ ] Aligned Layer
 
 ### Provisions
 
 * [x] Sendtokens
-
-### Investors
