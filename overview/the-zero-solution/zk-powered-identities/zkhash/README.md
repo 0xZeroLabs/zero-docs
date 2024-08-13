@@ -8,7 +8,7 @@ Crucially, the zkHash itself **does not reveal the original data**. It functions
 
 The current implementation of zkHash is straight-forward, it includes but is nor limited to:
 
-1. **Zero-Knowledge Proofs (ZKPs):** These cryptographic techniques could be used to prove possession of specific attributes (e.g., being above 18 years old) without disclosing the underlying data. The zkHash plays a role in the ZKP process.
+1. **Merkle Proofs:** Unlike the name may suggest, this system uses Merkle trees to keep the root succinct as making storage and finding it efficient onchain. The zkHash plays a role in the ZKP generation process ensuring the data being used for the process is correct.
 2. **Collision-Resistant Hashing:** A collision-resistant hashing function is being employed. This ensures it's extremely difficult to generate two different inputs that produce the same zkHash, strengthening the security of the identity verification process.
 
 **Benefits:**
