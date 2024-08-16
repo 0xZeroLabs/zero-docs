@@ -12,8 +12,8 @@ description: Where is ZERO currently headed?
 
 ### Q3, 2024
 
-* [ ] Initial Prototype
-* [ ] Waitlist
+* [x] Initial Prototype
+* [x] Waitlist
 * [ ] Closed Alpha
 
 ### Q4, 2024
