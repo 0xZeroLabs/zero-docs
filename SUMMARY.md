@@ -36,7 +36,7 @@
 * [Ecosystem](partners/ecosystem/README.md)
   * [Partners](partners/ecosystem/partners.md)
   * [Ambassador](partners/ecosystem/ambassador.md)
-* [Roadmap \[WIP\]](partners/roadmap-wip.md)
+* [Roadmap](partners/roadmap.md)
 
 ## Community
 

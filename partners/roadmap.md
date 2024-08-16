@@ -2,9 +2,9 @@
 description: Where is ZERO currently headed?
 ---
 
-# Roadmap \[WIP]
+# Roadmap
 
-### Q2, 2024
+Q2, 2024
 
 * [x] Architecture Design.
 * [x] Testing Feasibility.
