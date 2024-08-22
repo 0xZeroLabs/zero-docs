@@ -8,14 +8,14 @@
 
 ### Data Availability
 
-* [ ] Irys
+* [x] Irys
 * [ ] Kwil DB
 
 ### Protocols
 
 * [x] Passport Protoocol
-* [ ] Sindri
-* [ ] Aligned Layer
+* [x] Sindri
+* [x] Aligned Layer
 
 ### Provisions
 
