@@ -1,0 +1,6 @@
+# Hypothetical Case Studies
+
+Work in progress..
+
+1. Imagine ...
+2. Imagine ...

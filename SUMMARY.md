@@ -2,21 +2,19 @@
 
 ## Overview
 
-* [General Overview](README.md)
-* [ZERO Solution](the-zero-solution/README.md)
-  * [Identity](overview/the-zero-solution/zk-powered-identities/README.md)
-    * [zkHash](overview/the-zero-solution/zk-powered-identities/zkhash/README.md)
-      * [zKYC](overview/the-zero-solution/zk-powered-identities/zkhash/zkyc.md)
-    * [Score Index](overview/the-zero-solution/zk-powered-identities/aggregated-verifications.md)
-    * [Status](overview/the-zero-solution/zk-powered-identities/status.md)
-  * [Passport](the-zero-solution/omnichain-passports.md)
-  * [Balance](overview/the-zero-solution/balance.md)
-  * [Smart Key](overview/the-zero-solution/smart-key.md)
-  * [Understanding ZERO Protocol Architecture](https://paragraph.xyz/@0xzero/understanding-zero-protocol)
-
-## Tokenomics
-
-* [Governance \[$OMZ\]](tokenomics/protocol-governance-usdomzero.md)
+* [Introduction](README.md)
+* [ZERO Features](the-zero-solution/README.md)
+  * [Omni IDs (OMIDs)](overview/the-zero-solution/omni-ids-omids.md)
+  * [KYC/Social Recovery](overview/the-zero-solution/kyc-social-recovery.md)
+  * [Account Abstraction (OMSafe)](overview/the-zero-solution/account-abstraction-omsafe.md)
+  * [ZKP Marketplace](overview/the-zero-solution/zkp-marketplace.md)
+  * [Dynamic Verifiability](overview/the-zero-solution/dynamic-verifiability.md)
+  * [Reputable IDs](overview/the-zero-solution/reputable-ids.md)
+* [Use Cases](overview/use-cases/README.md)
+  * [Hypothetical Case Studies](overview/use-cases/hypothetical-case-studies.md)
+* [Technical Overview](overview/technical-overview/README.md)
+  * [FAQs](overview/technical-overview/faqs.md)
+* [ZERO Whitepaper](https://docsend.com/view/2fbpws5p2vsjnqqj)
 
 ## Users
 
@@ -26,17 +24,16 @@
 ## Developers
 
 * [ZERO SDK](developers/zero-sdk/README.md)
-  * [Attesstation](developers/zero-sdk/attesstation.md)
-  * [Issuers](developers/zero-sdk/issuers.md)
-  * [Sybil Aggregator](developers/zero-sdk/sybil-aggregator.md)
+  * [Issuance](developers/zero-sdk/issuance.md)
+  * [ZKP Marketplace/Verifiable Credentials](developers/zero-sdk/zkp-marketplace-verifiable-credentials.md)
+  * [Dynamic Credentials (zkTLS)](developers/zero-sdk/dynamic-credentials-zktls.md)
 * [Implementing ZERO](developers/implementing-zero.md)
 
-## Partners
+## Growth
 
-* [Ecosystem](partners/ecosystem/README.md)
-  * [Partners](partners/ecosystem/partners.md)
-  * [Ambassador](partners/ecosystem/ambassador.md)
-* [Roadmap](partners/roadmap.md)
+* [Ecosystem](growth/ecosystem/README.md)
+  * [Partners](growth/ecosystem/partners.md)
+* [Roadmap](growth/roadmap.md)
 
 ## Community
 

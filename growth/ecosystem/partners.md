@@ -4,19 +4,18 @@
 
 * [x] Viction
 * [x] PhronAI
-* [ ] zkSync
 
-### Data Availability
+### Storage
 
 * [x] Irys
 * [ ] Kwil DB
 
 ### Protocols
 
-* [x] Passport Protoocol
 * [x] Sindri
 * [x] Aligned Layer
+* [ ] EigenLayer
 
-### Provisions
+### Projects
 
 * [x] Sendtokens
