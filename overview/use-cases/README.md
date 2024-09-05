@@ -2,7 +2,7 @@
 
 Every part of ZERO’s stack has a potential use case that stands out among a multitude of identity solutions. From solvency proof to capitalising on data broking, ZERO can help build infrastructures and enable inventions of new industry verticals that our team don’t currently see in view.
 
-We’ve listed some examples of use cases, including practical examples/implementations (majorly in brackets) for a few of them:
+We’ve listed some examples of use cases, including practical examples/implementations for a few of them:
 
 1. **Privacy-Preserving KYC/AML:** During onboarding, we carry the users through the ZKYC process. ZKYC from the get go gives owners of OMIDs access to privately prove their KYC information (age range, country of origin, etc). Other means of verification could come from VCs by issuers to further enhance user experience.
 2. **Lending & Borrowing:** Through both VCs and DCs (dynamic credentials), lending platforms can be able to find the overall financial ability of a user (solvency). VCs that aggregate onchain credit scores across wallets can give an overall impression of a user’s solvency on chain. With ZERO lending is not limited to onchain abilities alone and connects overall financial abilities.

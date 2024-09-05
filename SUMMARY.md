@@ -19,7 +19,8 @@
 ## Users
 
 * [Getting Started](users/how-to-get-ompassports.md)
-* [Appeal Request](users/appeal-request.md)
+* [Maintaining Good Reputation](users/maintaining-good-reputation/README.md)
+  * [Appeal Request](users/maintaining-good-reputation/appeal-request.md)
 
 ## Developers
 
