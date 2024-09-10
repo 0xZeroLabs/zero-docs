@@ -8,7 +8,7 @@
 ### Storage
 
 * [x] Irys
-* [ ] Kwil DB
+* [x] Kwil DB
 
 ### Protocols
 

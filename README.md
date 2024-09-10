@@ -21,10 +21,14 @@ layout:
 
 Web3 thrives on a paradox. It empowers users with data ownership, disrupting traditional control by fostering a permissionless ecosystem. Yet, this very autonomy clashes with regulations and law enforcement's need for user data to combat theft and fraud. Data brokers exploit this tension, profiting from information web3 aims to return to users.
 
-## The Solution
+One might assume that traditional identity systems could address this issue. However, existing solutions are far from sufficient. Identity breaches accounted for over 19% (1 million cases) of personal data theft reports in 2023 alone. Even popular solutions like Fractal ID, which experienced a data breach on July 14th, 2024, demonstrate the vulnerability of non-self-sovereign identity systems. To truly protect your identity data, you must have control over it.
 
-ZERO Protocol, a decentralised identity and verifiable credential protocol that aims to unlock real-world value for Web3 through zero-knowledge, enabling solvency aggregation, and attestation.
+Fragmentation is another significant challenge. Identity data is currently scattered across multiple locations, making aggregation a complex and sensitive process. The limitations afore mentioned, coupled with the increasing insecurity of personal identity data, necessitate a more secure and user-centric approach. One that has the user in control. One we aim to develop.
 
-It aims to provide a system whereby users have complete self-sovereignty over their identity and credential data. Our mission at ZERO is to also enable proving of dynamic user data through our dynamic credential module, hence opening the door to solvency proof, aggregated internet data, powering everything comprising a user’s data on the open web.
+## Our Solution
+
+ZERO Protocol, a decentralised identity and verifiable credential protocol that aims to unlock real-world value for Web3 through zero-knowledge, enabling solvency and data aggregation, and attestation.
+
+It aims to provide a system whereby users have complete self-sovereignty over their identity and credential data. Our mission at ZERO is to also enable proving of dynamic user data through our dynamic credential module (via zkTLS), hence opening the door to solvency proof, aggregated internet data, powering everything comprising a user’s data on the open web.
 
 \
