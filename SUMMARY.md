@@ -14,13 +14,13 @@
   * [Hypothetical Case Studies](overview/use-cases/hypothetical-case-studies.md)
 * [Technical Overview](overview/technical-overview/README.md)
   * [FAQs](overview/technical-overview/faqs.md)
-* [ZERO Whitepaper](https://docsend.com/view/2fbpws5p2vsjnqqj)
+* [Whitepaper](overview/whitepaper.md)
 
 ## Users
 
 * [Getting Started](users/how-to-get-ompassports.md)
-* [Maintaining Good Reputation](users/maintaining-good-reputation/README.md)
-  * [Appeal Request](users/maintaining-good-reputation/appeal-request.md)
+* [Appeal Request](users/appeal-request/README.md)
+  * [Maintaining Good Reputation](users/appeal-request/maintaining-good-reputation.md)
 
 ## Developers
 
@@ -44,4 +44,5 @@
   * [Mail](mailto:team@0xzero.org)
   * [X (Twitter)](https://x.com/0xZeroOrg)
   * [Linktree](https://linktr.ee/0xzero)
+  * [ZERO Whitepaper](https://docsend.com/view/2fbpws5p2vsjnqqj)
 * [Brand Assets](https://drive.google.com/drive/folders/1FlsVpvlTCQ0HYbS\_7BLHc\_U6yHG00hMS)
