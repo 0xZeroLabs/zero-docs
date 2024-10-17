@@ -45,4 +45,5 @@
   * [X (Twitter)](https://x.com/0xZeroOrg)
   * [Linktree](https://linktr.ee/0xzero)
   * [ZERO Whitepaper](https://docsend.com/view/2fbpws5p2vsjnqqj)
-* [Brand Assets](https://drive.google.com/drive/folders/1FlsVpvlTCQ0HYbS\_7BLHc\_U6yHG00hMS)
+* [Press Kit](community/press-kit/README.md)
+  * [Brand Assets](https://drive.google.com/drive/folders/1FlsVpvlTCQ0HYbS\_7BLHc\_U6yHG00hMS)
