@@ -29,6 +29,6 @@ Fragmentation is another significant challenge. Identity data is currently scatt
 
 ZERO Protocol, a decentralised identity and verifiable credential protocol that aims to unlock real-world value for Web3 through zero-knowledge, enabling solvency and data aggregation, and attestation.
 
-It aims to provide a system whereby users have complete self-sovereignty over their identity and credential data. Our mission at ZERO is to enable issuance of data without the need to explicitly onboard any Issuers. And with S3N we can notarise and commit to credentials in a permissionless manner, hence opening the door to solvency proof, aggregated internet data, powering everything comprising a user’s data on the open web.
+It aims to provide a system whereby users have complete self-sovereignty over their identity and credential data. Our mission at ZERO is to enable issuance of data without the need to explicitly onboard any Issuers. And with [S3N](developers/s3n.md) we can notarise and commit to credentials in a permissionless manner, hence opening the door to solvency proof, aggregated internet data, powering everything comprising a user’s data on the open web.
 
 \
