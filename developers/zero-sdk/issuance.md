@@ -1,3 +1,0 @@
-# Attesstation
-
-Work in progress..

@@ -3,32 +3,24 @@
 ## Overview
 
 * [Introduction](README.md)
-* [ZERO Features](the-zero-solution/README.md)
+* [Features](the-zero-solution/README.md)
   * [Omni IDs (OMIDs)](overview/the-zero-solution/omni-ids-omids.md)
-  * [KYC/Social Recovery](overview/the-zero-solution/kyc-social-recovery.md)
-  * [Account Abstraction (OMSafe)](overview/the-zero-solution/account-abstraction-omsafe.md)
-  * [ZKP Marketplace](overview/the-zero-solution/zkp-marketplace.md)
   * [Dynamic Verifiability](overview/the-zero-solution/dynamic-verifiability.md)
   * [Reputable IDs](overview/the-zero-solution/reputable-ids.md)
 * [Use Cases](overview/use-cases/README.md)
   * [Hypothetical Case Studies](overview/use-cases/hypothetical-case-studies.md)
-* [Technical Overview](overview/technical-overview/README.md)
-  * [FAQs](overview/technical-overview/faqs.md)
 * [Whitepaper](overview/whitepaper.md)
+
+## Developers
+
+* [Development Kit](developers/development-kit.md)
+* [S3N](developers/s3n.md)
 
 ## Users
 
 * [Getting Started](users/how-to-get-ompassports.md)
 * [Appeal Request](users/appeal-request/README.md)
   * [Maintaining Good Reputation](users/appeal-request/maintaining-good-reputation.md)
-
-## Developers
-
-* [ZERO SDK](developers/zero-sdk/README.md)
-  * [Issuance](developers/zero-sdk/issuance.md)
-  * [ZKP Marketplace/Verifiable Credentials](developers/zero-sdk/zkp-marketplace-verifiable-credentials.md)
-  * [Dynamic Credentials (zkTLS)](developers/zero-sdk/dynamic-credentials-zktls.md)
-* [Implementing ZERO](developers/implementing-zero.md)
 
 ## Growth
 

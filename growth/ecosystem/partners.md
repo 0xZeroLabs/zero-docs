@@ -2,7 +2,6 @@
 
 ### Chains
 
-* [x] Viction
 * [x] PhronAI
 
 ### Storage
@@ -14,6 +13,7 @@
 
 * [x] Sindri
 * [x] Aligned Layer
+* [ ] Othentic
 * [ ] EigenLayer
 
 ### Projects

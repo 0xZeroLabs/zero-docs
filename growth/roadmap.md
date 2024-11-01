@@ -6,30 +6,27 @@ description: Where is ZERO currently headed?
 
 ### Mile 0
 
-* [x] Architecture Design.
-* [x] Testing Feasibility.
-* [x] Competitive Analysis.
+* [x] Initial architecture design.
+* [x] Testing feasibility.
+* [x] Competitive analysis.
 
 ### Mile 1
 
 * [x] Waitlist
-* [ ] MPC Key Share Module
-* [ ] Account Abstracted OMID (OMSafe)
+* [ ] S3N
+* [ ] OMID Wallet
 
 ### Mile 2
 
-* [ ] zkSchema Standard
-* [ ] zkTLS for Dynamic Credentials
-* [ ] Facegraphs Integration
+* [ ] First alpha
+* [ ] Open schema standard
 
 ### Mile 3
 
-* [ ] Onboard Early Issuers
-* [ ] Open ZKP Marketplace SDK
-* [ ] Enable OMSafe embeddability
+* [ ] Open issuance portal
+* [ ] Onboard early issuers
 
 ### Mile 4
 
-* [ ] First Open Beta
-* [ ] Reputations Introduction
-* [ ] Privado ID Integration...
+* [ ] General SDK
+* [ ] Open beta
