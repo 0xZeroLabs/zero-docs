@@ -6,7 +6,7 @@
 * [Features](the-zero-solution/README.md)
   * [Omni IDs (OMIDs)](overview/the-zero-solution/omni-ids-omids.md)
   * [Notarised Credentials](overview/the-zero-solution/notarised-credentials.md)
-  * [Reputable IDs](overview/the-zero-solution/reputable-ids.md)
+  * [Reputable Ecosystem](overview/the-zero-solution/reputable-ecosystem.md)
 * [Use Cases](overview/use-cases/README.md)
   * [Hypothetical Case Studies](overview/use-cases/hypothetical-case-studies.md)
 * [Whitepaper](overview/whitepaper.md)
